@@ -1,0 +1,6 @@
+__pycache__
+.venv
+faiss
+textData
+tmp
+models
